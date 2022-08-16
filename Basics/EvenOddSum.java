@@ -22,7 +22,7 @@ import java.util.Scanner;
 public class EvenOddSum {
     public static void main(String[] args) {
 		// Write your code here
-        int n,m,rem,evenSum=0,oddSum=0;
+        int n,rem,evenSum=0,oddSum=0;
         Scanner s = new Scanner(System.in);
         n=s.nextInt();
         while(n>0)

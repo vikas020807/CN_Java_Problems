@@ -42,7 +42,7 @@ public class TotalSalary {
     public static void main(String[] args) 
     {
 		// Write your code here
-       int n,basic;
+       int basic;
         float hra,da,allow,pf,totalSalary;
         Scanner s = new Scanner(System.in);
         basic = s.nextInt();
