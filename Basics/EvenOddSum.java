@@ -36,7 +36,6 @@ public class EvenOddSum {
                 oddSum=oddSum+rem;
             }
            n/=10; 
-        
         }
         System.out.println(evenSum+" "+oddSum);
        s.close();
