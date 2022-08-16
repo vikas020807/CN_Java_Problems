@@ -36,9 +36,6 @@ On substituting these values to the formula of totalSalary, we get Rs. 8761.53 a
 import java.util.Scanner;
 
 public class TotalSalary {
-    /**
-     * @param args
-     */
     public static void main(String[] args) 
     {
 		// Write your code here
